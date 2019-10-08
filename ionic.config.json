@@ -1,5 +1,7 @@
 {
   "name": "location_accuracy",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
